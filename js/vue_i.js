@@ -1,8 +1,8 @@
 var  vm1 = new Vue ({
    el: '#vue_det',
    data: {
-      img : "img/1.PNG",
-      img2 : "img/2.PNG"
+      img : "img/1.png",
+      img2 : "img/2.png"
    },
    // methods: {
    //    mydetails : function() {
