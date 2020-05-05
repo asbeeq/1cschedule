@@ -1,0 +1,17 @@
+body {
+	background-image: url('../img/back2.gif');
+	/*background-color: black;*/
+}
+
+@media screen and (max-width: 200px) {
+.center {
+
+	width:50%;
+}
+
+
+@media screen and (max-width: 800px) {
+  .center {
+     width: 100%; 
+  }
+}
